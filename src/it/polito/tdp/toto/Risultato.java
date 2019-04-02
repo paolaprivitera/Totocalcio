@@ -1,6 +1,7 @@
 package it.polito.tdp.toto;
 
 public enum Risultato {
+	// enum e' un insieme di costanti
 
 	UNO, DUE, ICS;
 
